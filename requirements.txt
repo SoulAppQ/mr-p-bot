@@ -1,0 +1,13 @@
+# MR P Discord Bot - Server management bot (no AI, no Ollama, no Instagram)
+# Deploys free on Railway/Render
+
+# Core Discord bot
+discord.py>=2.3
+python-dotenv>=1.0
+aiosqlite>=0.19
+
+# TTS for voice greetings
+edge-tts>=6.1
+
+# Steam API
+requests>=2.28
